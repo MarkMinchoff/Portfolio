@@ -1,3 +1,3 @@
 # Welcome to my GitHub Portfolio!
 
-## You may have found me here through [my website](www.markminchoff.com)
+## You may have found me here through [my website](https://www.markminchoff.com/)
