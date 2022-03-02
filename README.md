@@ -4,7 +4,7 @@
 
 #### The following is what I am currently working on or have completed:
 
-#### ***Current Projects***
+#### ***Projects***
   - Cover Letter Generator
   - Philadelphia Crime Twitter Bot
   - Finance Tracker
