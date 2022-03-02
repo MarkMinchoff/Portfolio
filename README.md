@@ -4,12 +4,14 @@
 
 #### The following is what I am currently working on or have completed:
 
-#### ***IN PRODUCTION***
+#### ***Current Projects***
   - Cover Letter Generator
-
-#### ***COMPLETE***
+  - Philadelphia Crime Twitter Bot
+  - Finance Tracker
 
 #### ***CREDITS***
 Skye Emery  
 RealPyton.com  
 Utah State University  
+YouTube.com
+Google.com
