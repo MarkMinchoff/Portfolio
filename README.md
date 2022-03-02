@@ -10,8 +10,8 @@
   - Finance Tracker
 
 #### ***CREDITS***
-Skye Emery  
-RealPyton.com  
-Utah State University  
-YouTube.com
-Google.com
+- Skye Emery  
+- RealPyton.com  
+- Utah State University  
+- YouTube.com
+- Google.com
