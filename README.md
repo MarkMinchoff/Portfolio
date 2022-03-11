@@ -5,8 +5,8 @@
 #### The following is what I am currently working on or have completed:
 
 #### ***Projects***
-  - Cover Letter Generator
-  - Philadelphia Crime Twitter Bot
+  - [Cover Letter Generator](https://github.com/MarkMinchoff/Portfolio/tree/central/In%20Production/cv_gen)
+  - [Philadelphia Crime Twitter Bot](https://github.com/MarkMinchoff/Portfolio/tree/central/In%20Production/twitter_bot)
   - Finance Tracker
 
 #### ***CREDITS***
